@@ -3,7 +3,7 @@ function multiply (a, b) {
 }
 
 function addition (a, b) {
-  return a + b + 1;
+  return a + b;
 }
 
 function subtraction (a, b) {
@@ -11,7 +11,7 @@ function subtraction (a, b) {
 }
 
 function division (a, b) {
-  return a + b;
+  return a / b;
 }
 
 module.exports = {
