@@ -8,4 +8,4 @@ phases:
   build:
     commands:
       - npm install
-      - jest
+      - npm run test
